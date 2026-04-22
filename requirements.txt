@@ -1,7 +1,6 @@
-transfomers
 transformers[sentencepiece]
 datasets
-screblue
+scikit-learn
 rouge_score
 py7zr
 pandas
